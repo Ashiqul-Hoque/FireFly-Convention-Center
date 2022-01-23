@@ -4,3 +4,11 @@
 * {
   font-family: "Roboto", sans-serif;
 }
+
+.package-button {
+  color: #3f87f5;
+  background-color: #eeede7;
+  border: none;
+  padding: 8px 50px;
+  border-radius: 20px;
+}
