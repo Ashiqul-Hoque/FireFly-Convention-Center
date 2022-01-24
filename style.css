@@ -27,3 +27,10 @@
   color: #2da5bd;
   background-color: white;
 }
+.submit-button {
+  color: #2da5bd;
+  background-color: white;
+  border: none;
+  padding: 8px 50px;
+  border-radius: 20px;
+}
