@@ -16,17 +16,6 @@
   background-color: #3f87f5;
 }
 
-.book-button {
-  color: white;
-  background-color: #2da5bd;
-  border: none;
-  padding: 8px 50px;
-  border-radius: 20px;
-}
-.book-button:hover {
-  color: #2da5bd;
-  background-color: white;
-}
 .submit-button {
   color: #2da5bd;
   background-color: white;
@@ -41,7 +30,6 @@
     margin-bottom: 0;
   }
   .book-button {
-    color: white;
     background-color: #2da5bd;
     border: none;
     padding: 6px 25px;
