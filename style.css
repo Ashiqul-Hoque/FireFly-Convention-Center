@@ -15,6 +15,12 @@
 .special-card {
   background-color: #3f87f5;
 }
+.slider {
+  margin-top: 70px;
+}
+.nav-sec {
+  z-index: 10;
+}
 
 .submit-button {
   color: #2da5bd;
